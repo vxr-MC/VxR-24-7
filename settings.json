@@ -2,8 +2,8 @@
   "name": "EVIL VXR",
   "bot-account": {
     "username": "evilvxr666",
-    "password": "vxr1vxr",
-    "type": "online"
+    "password": "",
+    "type": "offline"
   },
   "server": {
     "ip": "Logiccc.aternos.me",
@@ -14,8 +14,8 @@
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
-    "z": 0
+    "y": 64,
+    "z": 7
   },
   "utils": {
     "auto-auth": {

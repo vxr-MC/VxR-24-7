@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "EVIL VXR",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "username": "evilvxr666",
+    "password": "vxr1vxr",
+    "type": "online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Logiccc.aternos.me",
+    "port": 46783,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "vxr1vxr"
     },
     "anti-afk": {
       "enabled": true,
@@ -29,11 +29,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 360,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Ouu Shii im lowk evil vxr",
+        "ayedwastaken3 butt is HUGE ASF",
+        "Gyaaaaaaattt",
+        "everyday drinking beers and jerking off to femboys"
       ]
     },
     "chat-log": true,
@@ -69,8 +70,8 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
-    "place-night": false
+    "pick-up-day": true,
+    "place-night": true
   },
   "discord": {
     "enabled": false,
